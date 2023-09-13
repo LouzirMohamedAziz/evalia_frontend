@@ -1,8 +1,8 @@
 {
-  "name": "rdash-angular2",
-  "version": "0.0.2",
-  "description": "AngularJS2 implementation of the RDash admin dashboard theme http://rdash.github.io",
-  "repository": "https://github.com/ziyasal/rdash-angular2",
+  "name": "Evalia-frontend",
+  "version": "1.0.0.1",
+  "description": "This is the admin dashboard",
+  "repository": "https://github.com/LouzirMohamedAziz/evalia_frontend",
   "scripts": {
     "postinstall": "npm run typings",
     "tsc": "tsc",
@@ -11,7 +11,7 @@
     "start": "concurrently \"npm run tsc:w\" \"npm run live\" ",
     "typings": "typings install"
   },
-  "author": "Ziya SARIKAYA <ziyasal>",
+  "author": "Mohamed Ben Hamouda",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^2.0.0",
