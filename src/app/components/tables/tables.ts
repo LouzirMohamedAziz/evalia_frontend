@@ -19,7 +19,6 @@ import {ServerListService} from '../../services/server_list';
 })
 export class Tables {
     servers:any[];
-    serverListService:ServerListService;
 
     constructor(private serverListService:ServerListService) {
     }
