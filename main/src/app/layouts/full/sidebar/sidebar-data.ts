@@ -13,54 +13,54 @@ export const navItems: NavItem[] = [
   //   navCap: 'Ui Components',
   // },
   {
-    displayName: 'Badge',
+    displayName: 'Users & Accounts',
     iconName: 'rosette',
     route: '/ui-components/badge',
   },
   {
-    displayName: 'Chips',
+    displayName: 'Ratings ',
     iconName: 'poker-chip',
     route: '/ui-components/chips',
   },
   {
-    displayName: 'Lists',
+    displayName: 'Actors',
     iconName: 'list',
     route: '/ui-components/lists',
   },
   {
-    displayName: 'Menu',
+    displayName: 'Static data',
     iconName: 'layout-navbar-expand',
     route: '/ui-components/menu',
   },
-  {
-    displayName: 'Tooltips',
-    iconName: 'tooltip',
-    route: '/ui-components/tooltips',
-  },
   // {
-  //   navCap: 'Auth',
+  //   displayName: 'Tooltips',
+  //   iconName: 'tooltip',
+  //   route: '/ui-components/tooltips',
   // },
-  {
-    displayName: 'Login',
-    iconName: 'lock',
-    route: '/authentication/login',
-  },
-  {
-    displayName: 'Register',
-    iconName: 'user-plus',
-    route: '/authentication/register',
-  },
+//  // {
+//   //   navCap: 'Auth',
+//   // },
+//   {
+//     displayName: 'Login',
+//     iconName: 'lock',
+//     route: '/authentication/login',
+//   },
+//   {
+//     displayName: 'Register',
+//     iconName: 'user-plus',
+//     route: '/authentication/register',
+//   },
   // {
   //   navCap: 'Extra',
   // },
-  {
-    displayName: 'Icons',
-    iconName: 'mood-smile',
-    route: '/extra/icons',
-  },
-  {
-    displayName: 'Sample Page',
-    iconName: 'aperture',
-    route: '/extra/sample-page',
-  },
+  // {
+  //   displayName: 'Icons',
+  //   iconName: 'mood-smile',
+  //   route: '/extra/icons',
+  // },
+  // {
+  //   displayName: 'Sample Page',
+  //   iconName: 'aperture',
+  //   route: '/extra/sample-page',
+  // },
 ];
