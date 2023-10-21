@@ -14,22 +14,22 @@ export const navItems: NavItem[] = [
   // },
   {
     displayName: 'Users & Accounts',
-    iconName: 'rosette',
+    iconName: 'users',
     route: '/ui-components/badge',
   },
   {
     displayName: 'Ratings ',
-    iconName: 'poker-chip',
+    iconName: 'chart-arrows',
     route: '/ui-components/chips',
   },
   {
     displayName: 'Actors',
-    iconName: 'list',
+    iconName: 'man',
     route: '/ui-components/lists',
   },
   {
     displayName: 'Static data',
-    iconName: 'layout-navbar-expand',
+    iconName: 'chart-histogram',
     route: '/ui-components/menu',
   },
   // {
@@ -37,19 +37,19 @@ export const navItems: NavItem[] = [
   //   iconName: 'tooltip',
   //   route: '/ui-components/tooltips',
   // },
-//  // {
-//   //   navCap: 'Auth',
-//   // },
-//   {
-//     displayName: 'Login',
-//     iconName: 'lock',
-//     route: '/authentication/login',
-//   },
-//   {
-//     displayName: 'Register',
-//     iconName: 'user-plus',
-//     route: '/authentication/register',
-//   },
+  //  // {
+  //   //   navCap: 'Auth',
+  //   // },
+  //   {
+  //     displayName: 'Login',
+  //     iconName: 'lock',
+  //     route: '/authentication/login',
+  //   },
+  //   {
+  //     displayName: 'Register',
+  //     iconName: 'user-plus',
+  //     route: '/authentication/register',
+  //   },
   // {
   //   navCap: 'Extra',
   // },
